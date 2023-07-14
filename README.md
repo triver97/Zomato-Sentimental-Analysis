@@ -1,5 +1,5 @@
 # Zomato-Sentimental-Analysis
-This project focuses on performing sentiment analysis on Zomato restaurant reviews. It aims to classify reviews as positive, negative, or neutral based on the text content.
+This project focuses on performing sentiment analysis on Zomato restaurant reviews. It aims to classify reviews as positive, negative, or neutral based on the text content. The project aims to analyze Zomato restaurant data in India to understand customer sentiments through reviews and visualize the data for insights.
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
